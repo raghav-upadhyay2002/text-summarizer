@@ -1,6 +1,5 @@
-=============================
-TEXT SUMMARIZER
-=============================
+# TEXT SUMMARIZER
+
 
 A simple AI-powered text summarization app built with Hugging Face Transformers 
 and Streamlit. You can paste any article or blog text, and the app will generate 
